@@ -12,8 +12,8 @@ const About = () => {
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Akash Ghosh</h5>
-        <p class="card-text">Senior Software Engineer at Cloud Company</p><br></br>
+        <h5 class="card-title font-bold text-2xl">Akash Ghosh</h5>
+        <p class="card-text font-bold text-xl">Senior Software Engineer at Cloud Company</p><br></br>
         <p class="card-text">C.E.O ,founder and Ex Senior Software Engineer at Easy Study BD</p>
         <p class="card-text">C.T.O of Tutora Academy</p>
         <p class="card-text"></p>
